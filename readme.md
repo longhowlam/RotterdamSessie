@@ -1,7 +1,3 @@
-# Inleiding R
+# Rotterdam Sessie
 
-Begeleidende R notebooks 'inleiding R cursus' voor mijn vier avond sessies.
-
-Accompanying  R notebooks 'introduction to R' for my four evening sessions.
-
-Cheers, Longhow
+Begeleidende R notebooks voor 'Rotterdam insights' voor mijn vier avond sessies.
