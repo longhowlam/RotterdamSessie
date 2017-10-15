@@ -5,6 +5,9 @@ install.packages(
   c("readr", "readxl", "pryr", "RODBC")
 )
 
+devtools::install_github("hadley/colformat")
+devtools::install_github("ropenscilabs/skimr")
+
 # sessie 02
 install.packages(
   c("tidyverse", "lubridate", "anytime","tidyr", "stringr", "forcats")
